@@ -1,5 +1,6 @@
-import en from "./locales/es.json"
-import lv from "./locales/pt.json"
+import es from "./locales/es.json"
+import pt from "./locales/pt.json"
+import datetimeFormats from "./rules/datetime.js";
 
 export default createI18n({
   locale: import.meta.env.VITE_DEFAULT_LOCALE,
@@ -9,5 +10,6 @@ export default createI18n({
     es,
     pt,
   },
+  datetimeFormats,
 })
 

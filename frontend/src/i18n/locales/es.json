@@ -1,15 +1,17 @@
 {
   "nav": {
     "home": "Home",
-    "about": "About"
+    "about": "Sobre"
   },
   "home": {
-    "header": "Welcome to the Vue 3 I18n tutorial!",
-    "created_by": "This tutorial was brought to you by",
-    "num_visits": "This page hasn't been visited :("
+    "header": "{name}",
+    "created_by": "Amanda, Daiane, Giovana e Nathália"
   },
   "about": {
-    "header": "About us",
-    "donations": "Donations raised"
+    "header": "Sobre nosotros"
+  },
+  "locale": {
+    "es": "Español",
+    "pt": "Portugués"
   }
 }
