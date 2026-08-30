@@ -1,6 +1,6 @@
 <template>
   <main>
-    <h1>{{ t({name: "Profe Quiltro"}) }}</h1>
+    <h1>{{ t("home.header") }}</h1>
     <p>{{ t("home.created_by") }}</p>
   </main>
 </template>

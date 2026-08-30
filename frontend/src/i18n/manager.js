@@ -1,5 +1,6 @@
 const localeModules = import.meta.glob('./locales/*.json');
 let _i18n = null;
+let supportedLocalesCache = null;
 
 const I18nManager = {
   init(i18nInstance) {

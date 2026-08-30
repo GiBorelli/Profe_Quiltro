@@ -13,5 +13,10 @@
   "locale": {
     "es": "Espanhol",
     "pt": "Português"
+  },
+  "perfil-dropdown":{
+    "historico": "Questionários anteriores",
+    "estatisticas": "Estatísticas",
+    "login": "Logar/Sair"
   }
 }
