@@ -37,3 +37,6 @@ __screenshots__/
 
 # Vite
 *.timestamp-*-*.mjs
+package-lock.json
+frontend/package-lock.json
+frontend/package-lock.json
