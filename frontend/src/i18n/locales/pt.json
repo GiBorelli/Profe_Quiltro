@@ -5,7 +5,19 @@
   },
   "home": {
     "header": "{name}",
-    "created_by": "Amanda, Daiane, Giovana e Nathália"
+    "created_by": "Amanda, Daiane, Giovana e Nathália",
+    "intro": "Texto de explicação do que é e como usar",
+    "create": "Criar questionário",
+    "upload": {
+      "back": "Voltar",
+      "title": "Arraste e solte um arquivo ou suba um da sua computadora para criar um questionário",
+      "accepted": "Apenas arquivos PDF",
+      "invalid_file": "Selecione um arquivo PDF válido."
+    },
+    "loading": {
+      "title": "Carregando questionário",
+      "message": "Espere enquanto as perguntas são criadas"
+    }
   },
   "about": {
     "header": "Sobre"
